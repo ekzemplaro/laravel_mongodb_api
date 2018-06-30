@@ -4,6 +4,7 @@
 
 
 How to install
+
 	cd laravel_mongodb_api
 	composer install
 	cp .env.example .env
